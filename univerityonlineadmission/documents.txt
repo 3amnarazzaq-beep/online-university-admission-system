@@ -1,0 +1,13 @@
+
+ADM-2026-0001|CNIC/B-Form|Yes
+ADM-2026-0001|Father/Guardian CNIC|Yes
+ADM-2026-0001|Matric Certificate|Yes
+ADM-2026-0001|Matric DMC|Yes
+ADM-2026-0001|Intermediate Certificate|Yes
+ADM-2026-0001|Intermediate DMC|Yes
+ADM-2026-0001|Domicile|Yes
+ADM-2026-0001|Passport Photograph|Yes
+ADM-2026-0001|Character Certificate|Yes
+ADM-2026-0001|Entry Test Result|Yes
+ADM-2026-0001|Equivalence Certificate (if applicable)|No
+ADM-2026-0001|Migration Certificate (if applicable)|No

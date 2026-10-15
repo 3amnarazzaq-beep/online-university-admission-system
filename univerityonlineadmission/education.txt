@@ -1,0 +1,3 @@
+
+ADM-2026-0001|Matric/SSC|pu|pu|2028|809.0|800.0|98.89|A|123456
+ADM-2026-0001|Intermediate/HSSC|pu|lhr college|2029|1200.0|870.0|72.5|B|23456
